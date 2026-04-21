@@ -1,4 +1,4 @@
-# Projetos Java - Exercicios de Logica
+# Exercicios Didaticos
 
 Este repositorio reune pequenos exercicios em Java desenvolvidos para praticar entrada de dados, estruturas condicionais, calculos simples e uso de `switch`.
 
